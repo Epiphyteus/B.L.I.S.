@@ -1,0 +1,7 @@
+AMERICA CAPTAIN|Patriotic Superhero|Marvel|2.41|Red white blue|A|3
+BATMAN|Fights Crime|D.C.|100.99|Black|N|5
+IRON MAN|Tony Stark|Marvel|25.29|Red|A|5
+JESUS|Savior|Christianity|2.30|White or brown depending|A|5
+MASTER CHIEF|Grunts and elites|Halo|10.99|Green|N|5
+ZEBRAS|Reality|Roam the Plains|15.28|Black and White|A|3
+HAWKEYE|Bows and Arrows|Marvel|99.99|Grey|n|4
